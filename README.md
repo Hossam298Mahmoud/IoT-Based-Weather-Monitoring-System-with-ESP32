@@ -21,5 +21,20 @@
 4. Node-RED subscribes to these topics
 5. Node-RED parses the data and sends it to Firebase via the Firebase node
 
+ ![Serial Monitor](images/com.PNG)
+ 
+<p align="center">
+  <b>ESP32 - Serial Monitor</b>
+</p>                               
 
+ ![Node-Red](images/node-red.PNG)
+ 
+<p align="center">
+  <b>Node-RED</b>
+</p>
+                                                                
+ ![Dashboard](images/dashboard.PNG)
 
+<p align="center">
+<b>Node-RED Dashboard</b>
+</p>                                                                      
