@@ -37,4 +37,10 @@
 
 <p align="center">
 <b>Node-RED Dashboard</b>
-</p>                                                                      
+</p>     
+
+
+## Demo Video
+▶ Watch A-Smart-Weather-Monitoring-System in Action
+ https://drive.google.com/file/d/1VUi-l5InGPwrhFvC5PKyC5yBZ7YtkTXn/view?usp=drive_link
+
